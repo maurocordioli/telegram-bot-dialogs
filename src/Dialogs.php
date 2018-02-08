@@ -9,7 +9,7 @@
 
 namespace BotDialogs;
 
-use Predis\Client as Redis;
+use Illuminate\Redis\RedisManager as Redis;
 use Telegram\Bot\Api;
 use Telegram\Bot\Objects\Update;
 

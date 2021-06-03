@@ -11,8 +11,8 @@ namespace BotDialogs;
 
 use Predis\Client as Redis;
 use Telegram\Bot\Api;
-use Telegram\Bot\Objects\Update;
-
+use Telegram\Bot\Objects\Update; 
+/** ok */
 /**
  * Class Dialogs
  * @package BotDialogs
